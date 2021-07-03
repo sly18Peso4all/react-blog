@@ -1,0 +1,37 @@
+.createBlog {
+  max-width: 500px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.createBlog h2 {
+  font-size: 20px;
+  color: #f1356d;
+  margin-bottom: 30px;
+}
+.createBlog label {
+  text-align: left;
+  display: block;
+}
+
+.createBlog input,
+.createBlog textarea,
+.createBlog select {
+  display: block;
+  margin: 20px 0;
+  padding: 10px 20px;
+  width: 100%;
+  border: 1px solid#ddd;
+  box-sizing: border-box;
+}
+
+.createBlog button {
+  background: #f1356d;
+  color: #fff;
+  border: 0;
+  font-size: 16px;
+  padding: 10px 20px;
+  border-radius: 8px;
+  cursor: pointer;
+  letter-spacing: 0.5px;
+}

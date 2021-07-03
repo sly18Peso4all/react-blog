@@ -1,0 +1,11 @@
+.notFound h2,
+.notFound p,
+.notFound a {
+  margin-bottom: 1rem;
+}
+
+.notFound a {
+  text-decoration: none;
+  color: #f1356d;
+  border-bottom: 1px solid #333;
+}
